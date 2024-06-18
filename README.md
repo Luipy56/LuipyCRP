@@ -5,6 +5,8 @@ En este repositorio podréis descargar diferentes versiones del resource pack pr
 
 Además encontraréis instrucciones para su instalación y diversas propiedades.
 
+Para empezar a descargar ya ve a la carpeta "CRPs"
+
 IMPORTANTE! -Optifine
 La mayoría de RPs de este repositorio utilizan Optifine para configurar más de una cosa, por lo que utilizarlo sin tener OF instalado o contar con una versión no estable, probocará que barias cosas NO funcionen correctamente.
 Optifine no es el único mod que es capaz de cargar con estas "configuraciones" especiales pero sí es el más recomendado /Esta frase se ha escrito en 06-2024/
@@ -12,16 +14,16 @@ Optifine no es el único mod que es capaz de cargar con estas "configuraciones" 
 Sintaxis:
 El nombre de los pack seguirán este formato:
 
-	En caso de los LuipyCRPs (Compilation Resource Pack)
-		["LuipyCRP" + "Versión de Minecraft" + "V" + "Versión del pack" + "Extra"]
-		Ej: LuipyCRP1.18.X-V.4.1Lite
-		En este pack encontramos que es un tipo LuipyCRP para la versión 1.18, que es la versión 4.1 del pack y que es un formato lite, lo que que contará con menos cosas que el modelo normal.
+En caso de los LuipyCRPs (Compilation Resource Pack)
+	["LuipyCRP" + "Versión de Minecraft" + "V" + "Versión del pack" + "Extra"]
+	Ej: LuipyCRP1.18.X-V.4.1Lite
+	En este pack encontramos que es un tipo LuipyCRP para la versión 1.18, que es la versión 4.1 del pack y que es un formato lite, lo que que contará con menos cosas que el modelo normal.
 			
-		En el apartado de "Extra" se puede encontrar por ejemplo, una versión Lite, Buckups, No modelos, etc.
-		Si en la versión de Minecraft aparece una X, significa que se ha probado en barias minor updates de la versión principal y funciona correctamente en todos o al menso el pack_format sirve para todas ellas.
+	En el apartado de "Extra" se puede encontrar por ejemplo, una versión Lite, Buckups, No modelos, etc.
+	Si en la versión de Minecraft aparece una X, significa que se ha probado en barias minor updates de la versión principal y funciona correctamente en todos o al menso el pack_format sirve para todas ellas.
 
-	Para los demás:
-		Se describirá el uso en un par de palabras seguido de la misma sintaxis que la anterior.
+Para los demás:
+Se describirá el uso en un par de palabras seguido de la misma sintaxis que la anterior.
 
 	 
 
