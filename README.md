@@ -6,11 +6,11 @@ En este repositorio podréis descargar diferentes versiones del resource pack pr
 Además, encontraréis instrucciones para su instalación y diversas propiedades.
 
 ### Links de interés:
--Canal de Discord: https://discord.gg/6ExMmZM6rK
--Nombre de Discord: luipy56
--Canal de Youtube: https://bit.ly/33fAIIS
--Web: ldeluipy.es
--Web Servers de Minecraft: mc.ldeluipy.es
+- [Canal de Discord] (https://discord.gg/6ExMmZM6rK)
+- Nombre de Discord luipy56
+- [Canal de Youtube] (https://bit.ly/33fAIIS)
+- [Web personal] (ldeluipy.es)
+- [Web Servers de Minecraft] (mc.ldeluipy.es)
 
 ## Instrucciones de Descarga
 
@@ -74,7 +74,7 @@ Este pack hace que los ores brillen en la oscuridad y que la ancient debris sea 
 ### 8BitTotem
 
 Este pack simplemente cambia el sonido del tótem al activarse por un sonido retro.
-[Link a planer minecraft](https://www.planetminecraft.com/member/luipy/](https://www.planetminecraft.com/texture-pack/8bit-sound-effect-for-the-totem-of-undying/))
+[Pack en planet minecraft](https://www.planetminecraft.com/member/luipy/](https://www.planetminecraft.com/texture-pack/8bit-sound-effect-for-the-totem-of-undying/))
 
 ### TotemOfMushroom (Requiere Optifine para las texturas pero no para el sonido)
 
@@ -82,9 +82,9 @@ Este pack te permite cambiar la textura del tótem dependiendo del nombre del mi
 
 ### GlowingMobs y GlowingHostileMobs (Requiere Optifine)
 
-En resumen, hace que los mobs brillen en la oscuridad, para el primero todos, para el segundo solo los hostiles (Zombies, arañas, pigmans, etc.)
-[Link a planer minecraft](https://www.planetminecraft.com/member/luipy/](https://www.planetminecraft.com/texture-pack/glowing-mobs/))
-[Link a planer minecraft](https://www.planetminecraft.com/texture-pack/glowing-hostile-mobs/)
+En resumen, hace que los mobs brillen en la oscuridad, para el primero todos, para el segundo solo los hostiles (Zombies, arañas, pigmans, etc.).
+- [Pack Glowing Mobd en planet minecraft](https://www.planetminecraft.com/texture-pack/glowing-mobs/)
+- [Pack Glowing Hostile en " "](https://www.planetminecraft.com/texture-pack/glowing-hostile-mobs/)
 
 ### ArmorAddon
 
