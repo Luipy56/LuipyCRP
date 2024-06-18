@@ -6,11 +6,11 @@ En este repositorio podréis descargar diferentes versiones del resource pack pr
 Además, encontraréis instrucciones para su instalación y diversas propiedades.
 
 ### Links de interés:
-- [Canal de Discord] (https://discord.gg/6ExMmZM6rK)
+- [Canal de Discord](https://discord.gg/6ExMmZM6rK)
 - Nombre de Discord luipy56
-- [Canal de Youtube] (https://bit.ly/33fAIIS)
-- [Web personal] (ldeluipy.es)
-- [Web Servers de Minecraft] (mc.ldeluipy.es)
+- [Canal de Youtube](https://bit.ly/33fAIIS)
+- [Web personal](ldeluipy.es)
+- [Web Servers de Minecraft](mc.ldeluipy.es)
 
 ## Instrucciones de Descarga
 
