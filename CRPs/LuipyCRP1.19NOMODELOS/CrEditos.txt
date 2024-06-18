@@ -1,0 +1,50 @@
+*************************************************************************************************************************************************************************************************************************
+Yo, Luipy, NO soy el autor de la gran parte de las texturas de este Resource pack, solo he añadido algunas mias y la programación  necesaria para que todas las features sean compatibles y no haya ningun tipo de bug. 
+Si estás leyendo esto, me gustaría mucho que te pasaras por las webs de los siguientes nombres para darles el apoyo que se merecen por hacer todas estas texturas/animaciones/modelajes 
+o simeplemente que sus vídeo/webs me han ayudado a conseguir que todo quedara perfecto.
+*************************************************************************************************************************************************************************************************************************
+*El orden de los citados no tiene nada que ver*
+
+-Vanilla Tweacks By Xisumavoid and his team https://vanillatweaks.net/
+-Fresh Animations by FreshLX https://www.curseforge.com/minecraft/texture-packs/fresh-animations
+-AdamT19
+-Unique Spawn Eggs by Gouchnox https://www.planetminecraft.com/member/gouchnox/
+-Artist's Hideout
+-Bean357
+-Devu https://www.youtube.com/c/DevuProjects
+-MarekS
+-LucidWolf96
+-TamerYT
+-_MRonan_
+-Kusionaye
+-Kingswords
+-Taorb07
+-PickAUsername
+-PickAUsername
+-EyesOnRon
+-EyesOnRon
+-Bold Muddy
+-ArtsByKev https://www.youtube.com/channel/UCArJoJbKdI4afzB9QiZWPCA
+-The great white creeper https://www.youtube.com/channel/UCPURxP6B9Xa8rsGpms7ufrw
+-Torrezx
+-Daggsy
+-DipleDeFox
+-AstromPlays
+-Sp0ty
+-Lumelore
+-SourStew47
+-bettervanillabuildings
+-Luipy
+
+Testers:
+-Tammy_19
+-HyperFlow
+-Raulator2000
+
+Aportadores de las mejores sugerencias:
+
+-MrTobi
+
+*Seguramente faltan algunos nombres que no recuerdo o que haya perdido,
+Si necesita hablar conmigo, para reportar un bug, reclamar créditos, o hacerme una sugerencia, puede contactar conmigo en el siguiente discord:
+	https://discord.gg/6ExMmZM6rK

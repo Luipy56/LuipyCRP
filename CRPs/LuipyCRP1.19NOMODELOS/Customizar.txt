@@ -1,0 +1,198 @@
+CUALQUIER BUG/ERROR QUE VEAS, POR FAVOR REPÓRTALO
+
+1-APARTADO DE TEXTURAS CUSTOM (items renombrados)
+
+Renombra con los siguientes nombres entre comillas "ejemplo" para obtener la estatua deseda,
+puedes ponerle el nombre y los caracteres que quieras al item siempre y cuando esté también el nombre entre "" de la lista (puedes ponerle las mayusculas que quieras).
+Ejemplo1; Si el nombre que debes poner es "creeper" puedes renombrar de la siguiente manera:
+ 	[ Escultura de CrEePer ")º$w ] o [ CREEPERexplosivo ]
+Ejemplo2; Si el nombre que tienes que poner es "hyper" puedes escribir: [ HyperFlow13 ] o [ HYPERmalo al pvp ]
+SI NO FUNCIONA PONER TODO EN MINÚSCULAS O TAL Y COMO ESTÁ AQUÍ ESCRITO
+
+Leyenda:
+[Título]
+	[Item/s que se tiene que renombrar]
+		["nombre que se debe poner al item"] [Nombre de la estatua]
+
+Estatuas de Luipy:
+	Item: Stick
+		"suit" Suit
+		"wither1" Con un Wither en la espalda
+		"cam" Cara de camara
+		"dc" Doctor
+		"hween" Halloween
+		"inver" Color invertido
+		"iron" Iron man sin cabeza
+		"jones" Indiana Jones
+		"old" N/A
+		"xmas" Navidad
+Vuestras estatuas:
+	item: Stick / Tótem
+		"raulator"
+		"bydo"
+		"hyper"
+		"luis"
+		"msd"
+		"pagro"
+		"andy"
+		"tobi"
+                    "donpepe"
+Estatuas extra:
+	item: Stick
+		"alex" Alex
+		"steve" Steve
+		"rich" ElRichMC
+Estatuas de Mobs:
+	item: Stick
+		"wither2" Wither Boss
+		"axolotl" Ajolote (blanco)
+		"creeper" Creeper
+		"ghast" Ghast
+		"zombie" Zombi
+Hologramas: *1
+	item: Stick
+		"wither3" Wither a tamaño casi real
+		"Luipy" Skin habitual de Luipy
+		"monument" Escultura del monumento del mar (Prototipo)
+Manzanas:
+	item: Apple
+		"ingot" Lingote
+		"on a stick" Caña de pescar	
+		"bucket of" Cubo de manzana
+		"carrot" Zanahoria roja
+		"sword" Espada
+	item: Golden Apple
+		"mango" Textura que había default anteriormente para la manzana de oro
+		"copper" Manzana de Cobre
+		"diamond" Manzana de Diamante
+		"iron" Manzana de Hierro
+		"lapis" Manzana de Lapis lazuli
+		"netherite" Manzana de Netherite
+		"orange" Naranja
+		"pineapple" Piña
+		"raw3" Manzana de cobre crudo
+		"raw2" Manzana de hierro crudo
+		"raw1" Manzana de oro crudo
+	item: Enchanted Golden Apple
+		"notch" Cara de Notch
+		"mango" Textura que había default anteriormente para la manzana de oro encantada	
+Mario:
+	item: Stick
+		"firef" Flor de fuego
+		"icef" Flor de hielo
+		"yoshi" Yoshi de Mario World
+		"mario" Mario chikito de Mario World
+	item: Golden apple
+		"mushroom" Champiñón
+	item: Nether star
+		"staryellow" Super estrella
+		"starrose" (Rosa) Estrella del Mario Galaxy (Rosita), att: Tammy, lo hice yo, es rosa y sabe a fresa, sí, es rosa, rosaaaa.
+	item: Netherite axe
+		"m1" Hacha de Mario World Corta
+		"m2" Hacha de Mario World Normal
+		"m3" Hacha de Mario World Solo 1 filo
+Extras:
+	item: Stick
+		"iphone" iPhone rosa por detrás (también es rosa, joder cuanto rosa, ayuda.) *llora en rosa
+	item: Netherite axe / Diamond axe
+		"Sylaxe"
+		"Crystaxe"
+		"icing"
+            item: diamond
+                        "george" george
+Buttons:
+            item: Oak Log
+                        "Wooden Button"
+Escudos:
+	item: Shield
+		"glass" Cristal
+		"reverse" Carta del Uno
+Elytras:            IMPORTANTE: LAS ELYTRAS NO CAMBIARÁN LA TEXTURA SI TU SKIN TIENE UNA CAPA PUESTA | la capa se puede desactivar en ajustes de: "SKIN" y/o en "DETALLES"
+                                               Si pone "Shader Support" significa que la textura brilla con el uso de cualquier Shader
+        item: Elytra
+                 Colores/DobleAla:
+                             "yellow"          
+                             "orange"           			
+                             "red"	
+                             "lightblue"
+                             "cyan"
+                             "lime"
+                             "purple"
+                             "lightgray"
+                             "black"
+                   Capas:
+                             "migrator1" Shader Support
+                             "2016" Shader Support
+                             "2011"
+                             "2012"
+                             "2013"
+                             "2015"
+                   Sp0ty:
+                             "Iron Wings"
+                             "Golden Wings"
+                   Vanilla Tweaks:
+                             "Dragon1"
+                             "Vex"
+                             "Phantom1"
+                   Bettervanillabuilding:
+                             "fly"
+                             "angel"
+                             "fire" Shader Support
+                             "soulfire" Shader Support
+                             "void" Shader Support
+                             "sculk" Shader Support
+                             "phantom2"
+                             "ender" Shader Support
+                   NewDefault+:
+                             "Redstone"
+                             "Diamond"
+                             "Emerald"
+                             "Golden"
+                             "Parrot"
+                   Otras:
+                             "Warden" Shader Support (Sin Item)
+                             "Migrator2" Shader Support (Sin Item)
+                             "Dragon2" (Sin Item)
+                             "Demon"
+                             "Smooth"
+                             "Davinci"
+                             "Netherite"
+                             "luipy" Shader Support
+                             "test" Wither Skeleton (Sin Item)
+                             "potato" (Sin Item)
+Spawn Eggs:
+	item: Ghast spawn egg
+		"KillerBunny"
+		"EnderDragon" 
+		"Giant"
+		"illusioner"
+		"SnowGolem"
+		"IronGolem"
+		"Charged" Creeper Eléctrico
+		"Wither"
+			Comando para conseguirlos todos y que sean funcionales *2
+
+2-MENÚ
+
+2.1
+El background es la textura que saldrá de fondo de pantalla en el menu principal de minecraft.
+He colocado la de noche como default, si quieres cambiarla por la de día o quieres eliminarla para ver la original de la versión correspondiente
+sigue los siguientes pasos:
+	
+	1-Si quieres cambiar la textura a la de dia, ve a la ruta del resourcepack: assets/minecraft/textures/gui/title
+	e intercambia las fotos que haya en esa carpeta por las que hay en la carpeta llamada "Otra opción"
+	
+	2-Si quieres borrar las textura, simplemente borra la carpeta llamada "title"
+
+2.2
+	Si quieres eliminar el "LUIPY EDITION" vea la ruta: "assets/minecraft/textures/gui/title" y elimina el archivo llamado "edition.png"
+
+2.3
+	Pantalla de carga:
+		-Con el monochromatic OFF Saldrá el fondo rojo con el logo amarillento.
+		-Con el monochromatic ON Saldrá el fondo oscuro con el logo a todo color.
+
+
+*1 Los hologramas son estatuas/figuras que se verán normales a simple vista pero si los pones en un item frame serán muy grandes y a 90º, hecho para colocarlos como marcadores de zonas en items frames que estén en el suelo o en el techo.
+
+*2 setblock ~ ~ ~ minecraft:chest[facing=south,type=single,waterlogged=false]{Items:[{Count:1b,Slot:3b,id:"minecraft:ghast_spawn_egg",tag:{EntityTag:{id:"minecraft:iron_golem"},RepairCost:0,display:{Name:'{"text":"IronGolem"}'}}},{Count:1b,Slot:4b,id:"minecraft:ghast_spawn_egg",tag:{EntityTag:{id:"minecraft:wither"},RepairCost:0,display:{Name:'{"text":"Wither"}'}}},{Count:1b,Slot:5b,id:"minecraft:ghast_spawn_egg",tag:{EntityTag:{id:"minecraft:illusioner"},RepairCost:0,display:{Name:'{"text":"Illusioner"}'}}},{Count:1b,Slot:11b,id:"minecraft:ghast_spawn_egg",tag:{EntityTag:{id:"minecraft:snow_golem"},RepairCost:0,display:{Name:'{"text":"SnowGolem"}'}}},{Count:1b,Slot:13b,id:"minecraft:ghast_spawn_egg",tag:{EntityTag:{id:"minecraft:creeper",powered:1},RepairCost:0,display:{Name:'{"text":"Charged"}'}}},{Count:1b,Slot:15b,id:"minecraft:ghast_spawn_egg",tag:{EntityTag:{id:"minecraft:ender_dragon"},RepairCost:0,display:{Name:'{"text":"EnderDragon"}'}}},{Count:1b,Slot:21b,id:"minecraft:ghast_spawn_egg",tag:{EntityTag:{RabbitType:99,id:"minecraft:rabbit"},RepairCost:0,display:{Name:'{"text":"KillerBunny"}'}}},{Count:1b,Slot:23b,id:"minecraft:ghast_spawn_egg",tag:{EntityTag:{id:"minecraft:giant"},RepairCost:0,display:{Name:'{"text":"Giant"}'}}}]}

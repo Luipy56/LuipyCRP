@@ -1,0 +1,53 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/container/brewing_guide_left.png",
+			"ascent": 13,
+			"height": 166,
+			"chars": [
+				"\uEff1"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/container/brewing_guide_right.png",
+			"ascent": 13,
+			"height": 166,
+			"chars": [
+				"\uEff2"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:misc/hunger_half.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": [
+				"\uEff3"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:misc/hunger_full.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": [
+				"\uEff4"
+			]
+		},
+		{
+          	 	 "type":"bitmap",
+          		  "file":"minecraft:font/wither.png",
+          		  "ascent":4,
+          		  "height":16,
+           	     	  "chars":["\uE000"]
+            },
+	      { 
+			  "type": "bitmap",
+         	   	  "file": "minecraft:font/dragon.png",
+          	  	  "ascent": 4, "height": 16,
+           	 	  "chars": ["\uE001"]
+            }
+	]
+}
