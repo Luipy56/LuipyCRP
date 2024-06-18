@@ -3,12 +3,19 @@
 **Hangar de los Resource/texture packs creados por Luipy**
 
 En este repositorio podréis descargar diferentes versiones del resource pack principal y otros como el Addon+.
-
 Además, encontraréis instrucciones para su instalación y diversas propiedades.
+
+### Links de interés:
+-Canal de Discord: https://discord.gg/6ExMmZM6rK
+-Nombre de Discord: luipy56
+-Canal de Youtube: https://bit.ly/33fAIIS
+-Web: ldeluipy.es
+-Web Servers de Minecraft: mc.ldeluipy.es
 
 ## Instrucciones de Descarga
 
-Para empezar a descargar ya ve a la carpeta ["CRPs"](./CRPs).
+Para empezar a descargar ya, ve a la carpeta ["CRPs"](./CRPs).
+Será tan simple como clickar en el pack que quieras descargar y en la zona superor derecha, debajo de "history" encontraréis el botón de descarga.
 
 ## IMPORTANTE: Optifine
 
@@ -24,7 +31,7 @@ Ejemplo: `LuipyCRP1.18.X-V.4.1Lite`
 
 En este pack encontramos que es un tipo LuipyCRP para la versión 1.18, que es la versión 4.1 del pack y que es un formato lite, lo que contará con menos cosas que el modelo normal.
 
-En el apartado de "Extra" se puede encontrar, por ejemplo, una versión Lite, Buckups, No modelos, etc. Si en la versión de Minecraft aparece una X, significa que se ha probado en varias actualizaciones menores de la versión principal y funciona correctamente en todas o al menos el pack_format sirve para todas ellas.
+En el apartado de "Extra" se puede encontrar, por ejemplo, una versión Lite, Buckups, No modelos, etc. Si en la versión de Minecraft aparece una X, significa que se ha probado en varias minor updates de la versión principal y funciona correctamente en todas o al menos el pack_format sirve para todas ellas.
 
 ### Otros Packs
 
@@ -32,15 +39,15 @@ Se describirá el uso en un par de palabras seguido de la misma sintaxis que la 
 
 ## Logs
 
-En el apartado de logs podrás consultar los cambios que se le han hecho al RP en cada actualización. Esto será así a partir de ahora 06-2024 donde el RP espera su actualización a la versión de mc 1.20.6 y 1.21, siendo la V8, por lo que puede no haber información de versiones anteriores.
+En el apartado de logs podrás consultar los cambios que se le han hecho al RP en cada actualización. Esto será así a partir de ahora 06-2024 donde el RP espera su actualización a la versión de mc 1.20.6 y 1.21, siendo la V9, por lo que puede no haber información de versiones anteriores.
 
 ## Descarga y Uso
 
 En la carpeta ["CRPs"](./CRPs) podrás encontrar los packs principales en diferentes versiones. Su sintaxis se basa en la versión global del pack, la cual se va actualizando cada vez que Luipy sube una update y del número de la versión de Minecraft compatible. Esto no significa que no puedas utilizar un pack, que por ejemplo sea de la versión 1.20 en la versión 1.19 o 1.21, simplemente que pueden haber cosas que falten o fallen. En caso de no usar la versión correcta, al intentar activar el RP en las opciones dentro del juego, este dará un aviso en rojo diciendo que no es la versión correcta, aún así podrás utilizarlo.
 
-La mayoría de archivos estarán comprimidos en .zip y podrás proceder a descargarlos y colocarlos directamente en tu directorio de resourcepacks dentro de tu ".minecraft". En caso de que algún pack que necesites no esté comprimido, puedes descargar la carpeta raíz (podrás identificar que es una raíz por el nombre o comprobando que dentro contiene una carpeta llamada "assets"), una vez tengas esta carpeta puedes colocarla en tu directorio de RP antes mencionado o comprimirlo si así lo prefieres.
+La mayoría de archivos estarán comprimidos en .zip y podrás proceder a descargarlos y colocarlos directamente en tu directorio de resourcepacks dentro de tu ".minecraft". En caso de que algún pack que necesites no esté comprimido, puedes descargar la carpeta raíz *(podrás identificar que es una raíz por el nombre o comprobando que dentro contiene una carpeta llamada "assets")*, una vez tengas esta carpeta puedes colocarla en tu directorio de RP antes mencionado o comprimirlo si así lo prefieres.
 
-Para comprimirlo de una forma correcta, entra en la carpeta raíz una vez descargada, selecciona todos los elementos que haya dentro y comprímelos presionando click derecho seguido de elegir la opción de comprimir (comprimir en ZIP/RAR/etc.)
+Para comprimirlo de una forma correcta, entra en la carpeta raíz una vez descargada, selecciona todos los elementos que haya dentro y comprímelos presionando click derecho seguido de elegir la opción de comprimir *(comprimir en ZIP/RAR/etc.)*.
 
 ## Reportar Errores
 
@@ -67,6 +74,7 @@ Este pack hace que los ores brillen en la oscuridad y que la ancient debris sea 
 ### 8BitTotem
 
 Este pack simplemente cambia el sonido del tótem al activarse por un sonido retro.
+[Link a planer minecraft](https://www.planetminecraft.com/member/luipy/](https://www.planetminecraft.com/texture-pack/8bit-sound-effect-for-the-totem-of-undying/))
 
 ### TotemOfMushroom (Requiere Optifine para las texturas pero no para el sonido)
 
@@ -74,7 +82,9 @@ Este pack te permite cambiar la textura del tótem dependiendo del nombre del mi
 
 ### GlowingMobs y GlowingHostileMobs (Requiere Optifine)
 
-En resumen, hace que los mobs brillen en la oscuridad, para el primero todos, para el segundo solo los hostiles (Zombies, arañas, pigmans, etc.) Más información en esta web: *To Be Continued*
+En resumen, hace que los mobs brillen en la oscuridad, para el primero todos, para el segundo solo los hostiles (Zombies, arañas, pigmans, etc.)
+[Link a planer minecraft](https://www.planetminecraft.com/member/luipy/](https://www.planetminecraft.com/texture-pack/glowing-mobs/))
+[Link a planer minecraft](https://www.planetminecraft.com/texture-pack/glowing-hostile-mobs/)
 
 ### ArmorAddon
 
