@@ -15,17 +15,15 @@ Sintaxis:
 El nombre de los pack seguirán este formato:
 
 En caso de los LuipyCRPs (Compilation Resource Pack)
-	["LuipyCRP" + "Versión de Minecraft" + "V" + "Versión del pack" + "Extra"]
-	Ej: LuipyCRP1.18.X-V.4.1Lite
-	En este pack encontramos que es un tipo LuipyCRP para la versión 1.18, que es la versión 4.1 del pack y que es un formato lite, lo que que contará con menos cosas que el modelo normal.
+["LuipyCRP" + "Versión de Minecraft" + "V" + "Versión del pack" + "Extra"]
+Ej: LuipyCRP1.18.X-V.4.1Lite
+En este pack encontramos que es un tipo LuipyCRP para la versión 1.18, que es la versión 4.1 del pack y que es un formato lite, lo que que contará con menos cosas que el modelo normal.
 			
-	En el apartado de "Extra" se puede encontrar por ejemplo, una versión Lite, Buckups, No modelos, etc.
-	Si en la versión de Minecraft aparece una X, significa que se ha probado en barias minor updates de la versión principal y funciona correctamente en todos o al menso el pack_format sirve para todas ellas.
+En el apartado de "Extra" se puede encontrar por ejemplo, una versión Lite, Buckups, No modelos, etc.
+Si en la versión de Minecraft aparece una X, significa que se ha probado en barias minor updates de la versión principal y funciona correctamente en todos o al menso el pack_format sirve para todas ellas.
 
 Para los demás:
-Se describirá el uso en un par de palabras seguido de la misma sintaxis que la anterior.
-
-	 
+Se describirá el uso en un par de palabras seguido de la misma sintaxis que la anterior.	 
 
 Logs:
 En el apartado de logs podrás consultar los cambios que se le han hecho al RP en cada actualización. Esto será así a partir de ahora 06-2024 donde el RP espera su actualización a la versión de mc 1.20.6 y 1.21, siendo la V8, por lo que puede no haber información de versiones anteriores.
@@ -35,7 +33,7 @@ En la carpeta "CRPs" podrás encontrar los packs principales en diferentes versi
 La mayoría de archivos estarán comprimidos en .zip y podrás proceder a descargarlos y colocarlos directamente en tu directorio de resoucepacks dentro de tu ".minecraft".
 En caso de que algún pack que necesites no esté comprimido, puedes descargar la carpeta raíz (podrás identificar que es una raíz por el nombre o comprobando que dentro contiene una carpeta llamada "assets"), una vez tengas esta carpeta puedes colocarla en tu directorio de RP antes mencionado o comprimirlo si así lo prefieres. 
 	
-	Para comprimirlo de una forma correcta, entra en la carpeta raíz una vez descargada, selecciona todos los elementos que haya dentro y comprímelos presionando click 	derecho seguido de elegir la opción de comprimir (comprimir en ZIP/RAR/etc.)
+Para comprimirlo de una forma correcta, entra en la carpeta raíz una vez descargada, selecciona todos los elementos que haya dentro y comprímelos presionando click derecho seguido de elegir la opción de comprimir (comprimir en ZIP/RAR/etc.)
 
 Reportar errores:
 Si encuentra errores en algún pack, como que no funcione algo en las últimas versiones o que ha intentado utilizar un pack de una versión de mc anterior y no ha funcionado correctamente, puede contactar directamente conmigo, Luipy, por Discord, ya sea por el canal o por mensaje directo. Links al principio del documento.
