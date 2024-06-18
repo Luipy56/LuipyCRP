@@ -7,7 +7,7 @@ Además, encontraréis instrucciones para su instalación y diversas propiedades
 
 ### Links de interés:
 - [Canal de Discord](https://discord.gg/6ExMmZM6rK)
-- Nombre de Discord luipy56
+- Nombre de Discord: **luipy56**
 - [Canal de Youtube](https://bit.ly/33fAIIS)
 - [Web personal](ldeluipy.es)
 - [Web Servers de Minecraft](mc.ldeluipy.es)
